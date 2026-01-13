@@ -6,6 +6,9 @@
 * List
 * Input
 * Password Input
+
+[Showcase (Youtube)](https://youtu.be/NMkGZagmC0U)
+
 <p>Screenshots below.</p>
 
 <h3>Dialogs are triggered for players within server scripts.</h3>
