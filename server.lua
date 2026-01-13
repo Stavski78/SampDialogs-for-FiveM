@@ -32,7 +32,7 @@ end, false)
 
 RegisterCommand("input", function(source)
     TriggerClientEvent("dialog:open", source, {
-        id = 1,
+        id = 2,
         type = "input",
         title = "Input",
         text = "Enter the amount of money:",
@@ -46,7 +46,7 @@ end, false)
 
 RegisterCommand("password", function(source)
     TriggerClientEvent("dialog:open", source, {
-        id = 1,
+        id = 3,
         type = "password",
         title = "Password input",
         text = "Enter your password:",

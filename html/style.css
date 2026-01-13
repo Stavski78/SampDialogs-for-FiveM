@@ -121,6 +121,7 @@ input:focus {
     max-height: 300px;
 
     overflow-y: scroll;
+    scroll-behavior: smooth;
 }
 #content.list::-webkit-scrollbar {
     width: 8px;
@@ -137,6 +138,7 @@ input:focus {
 
 #buttons {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
     align-items: center;
