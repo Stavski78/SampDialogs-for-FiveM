@@ -3,7 +3,7 @@ game 'gta5'
 
 author "Stavski78"
 description "SAMP-styled dialogs for FiveM"
-version "1.0"
+version "1.1"
 
 ui_page 'html/index.html'
 

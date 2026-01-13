@@ -19,7 +19,8 @@ Renderers.list = function(d)
         mode = "list",
         title = d.title,
         text = d.text,
-        items = d.options
+        items = d.options,
+        buttons = d.buttons or { "Choose", "Cancel" }
     })
 end
 
