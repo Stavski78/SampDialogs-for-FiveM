@@ -143,5 +143,6 @@ input:focus {
     justify-content: center;
     align-items: center;
     gap: 12px;
-    margin-bottom: 8px;
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
